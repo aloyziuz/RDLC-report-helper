@@ -1,0 +1,15 @@
+.svn
+.vs
+bin
+obj
+publish
+packages
+TestResults
+
+
+
+branches
+tags
+trunk
+LANCARTESTDB
+*.htm
